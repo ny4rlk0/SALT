@@ -59,4 +59,5 @@ Now run these commands:
     $ sudo adb kill-server
     $ sudo adb start-server
     $ adb devices -l
-    $ If still cannot see your phone with above command open your debug mode in android and change usb mode from mtp to p2p (or any other mode then set it back).
+    
+If still cannot see your phone with above command open your debug mode in android and change usb mode from mtp to p2p (or any other mode then set it back).
