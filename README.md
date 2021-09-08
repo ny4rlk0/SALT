@@ -10,7 +10,7 @@ Cool how can i use it?
 
 Clone repostory with:
 
-    $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
+    $ git clone https://github.com/ny4rlk0/SALT/
 
 SALT - [S]teadfasterX [A]ll-in-one [L]G [T]ool
 
