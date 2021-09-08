@@ -1,10 +1,16 @@
 # SALT
 
 First WTF is this? 
-+It's flasher tool for LG SmartPhones on Linux.
+
+    $ +It's flasher tool for LG SmartPhones on Linux.
 
 Cool how can i use it?
-+Follow the instractions below.
+
+    $ Follow the instractions below.
+
+Clone repostory with:
+
+    $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 
 SALT - [S]teadfasterX [A]ll-in-one [L]G [T]ool
 
