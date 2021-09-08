@@ -27,8 +27,8 @@
 # # @details ..
 #
 ##########################################################################
-VARS="${0%/*}/salt.vars"
-export HASHES="${0%/*}/salt.hashes"
+VARS="salt.vars"
+export HASHES="salt.hashes"
 
 source "$VARS"
 [ $? -ne 0 ]&& echo "ERROR: including $VARS" && exit 3
@@ -2277,6 +2277,3 @@ F_CRRESTART(){ F_LOG "$FUNCNAME: started with this args: $@"
     $FULLCMD
     F_LOG "$FUNCNAME: ended."
 }; export -f F_CRRESTART
-
-
-
