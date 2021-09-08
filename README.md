@@ -15,15 +15,15 @@ Install
 
 On Arch: 
           
-   	$ sudo pacman -Sy polkit git xterm python-pyusb python-crypto python-pip
+    $ sudo pacman -Sy polkit git xterm python-pyusb python-crypto python-pip
     $ trizen -Sy yad python-zstandard (hint: you may need to install trizen first) - 
 		you need to manually do this until it has been fixed upstream: workaround
-    $ and sudo pip3 install cryptography
+    $ pip3 install cryptography
 Manjaro:
 
-  	$ sudo pacman -Sy polkit yad git xterm python-pyusb python-crypto trizen python-pip python-zstandard
-    $ sudo pip3 install cryptography
+    $ sudo pacman -Sy polkit yad git xterm python-pyusb python-crypto trizen python-pip python-zstandard
+    $ pip3 install cryptography
 Ubuntu, Debian, Mint etc:
 
     $ sudo apt install policykit-1 yad git xterm python3 python3-usb python3-crypto python3-pip
-    $ sudo pip3 install zstandard and sudo pip3 install cryptography
+    $ pip3 install zstandard and sudo pip3 install cryptography
