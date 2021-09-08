@@ -25,5 +25,5 @@ Manjaro:
     $ pip3 install cryptography
 Ubuntu, Debian, Mint etc:
 
-    $ sudo apt install policykit-1 yad git xterm python3 python3-usb python3-crypto python3-pip
+    $ sudo apt install adb fastboot policykit-1 yad git xterm python3 python3-usb python3-crypto python3-pip
     $ pip3 install zstandard and sudo pip3 install cryptography
