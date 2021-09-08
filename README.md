@@ -53,6 +53,9 @@ add the following line to your /etc/udev/rules.d/51-android.rules (Beware, you n
 
     $ sudo nano /etc/udev/rules.d/51-android.rules
     $ SUBSYSTEM=="usb", ATTR{idVendor}=="2a70", ATTR{idProduct}=="9011", MODE="0600", OWNER="username"
+    
+Now run these commands:
+
     $ sudo adb kill-server
     $ sudo adb start-server
     $ adb devices -l
