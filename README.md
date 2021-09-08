@@ -1,4 +1,11 @@
 # SALT
+
+First WTF is this? 
++It's flasher tool for LG SmartPhones on Linux.
+
+Cool how can i use it?
++Follow the instractions below.
+
 SALT - [S]teadfasterX [A]ll-in-one [L]G [T]ool
 
 08/09/2021
